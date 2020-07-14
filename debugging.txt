@@ -1,0 +1,14 @@
+node debugging 
+
+basic debuging tool : console.log to make sure the variables are giving output
+print more values to check out if the program works properly or not
+
+2nd node debugger to be added thru console.log 
+
+
+debugger
+
+
+if we have debugger in proggram the porgram will run normally
+
+but you have to add "node inspect"
